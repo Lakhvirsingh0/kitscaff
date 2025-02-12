@@ -19,7 +19,7 @@ Content Tabel
 body{
 	font-size: 15px;
 	line-height: 22px;
-	font-family: "Poppins", sans-serif;
+	font-family: "Poppins", sans-serif !important;
 }
 body.loadpage{}
 body:before{
