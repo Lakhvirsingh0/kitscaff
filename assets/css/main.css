@@ -88,9 +88,9 @@ h1.title{
     padding-bottom: 20px;
     position: relative;
 }
-.line-title .fa{
-    bottom: -5px;
-    font-size: 40px;
+.line-title .fa {
+    bottom: -2px;
+    font-size: 10px;
     left: 0;
     position: absolute;
     right: 0;
