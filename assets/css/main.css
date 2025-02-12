@@ -687,7 +687,7 @@ h1.title{
 	border: 10px solid hsl(32, 38%, 84%);
     box-shadow: 0 0 15px 0 hsla(32, 38%, 84%, 0.75);
     margin: 0 0 0 30px;
-    display: inline-block;
+    /* display: inline-block; */
 }
 .widget-gallery li{
 	float: left;
@@ -1977,3 +1977,30 @@ a.btn.btn-primary:hover {
 	border-radius: 20px;
   }
   
+
+
+/* serve imgs start */
+  .serve-img {
+    background-position: center  !important;
+    background-repeat: no-repeat  !important;
+    background-size: cover  !important;
+    width: 100%  !important;
+    height: 140px  !important;
+}
+
+.serve-img1 {
+    background-position: center  !important;
+    background-repeat: no-repeat  !important;
+    background-size: cover  !important;
+    width: 100%  !important;
+    height: 168px  !important;
+}
+
+
+.spot-img {
+    background-position: center  !important;
+    background-repeat: no-repeat  !important;
+    background-size: cover  !important;
+    width: 100%  !important;
+    height: 350px  !important;
+}
