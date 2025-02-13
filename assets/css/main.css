@@ -688,6 +688,7 @@ h1.title{
     box-shadow: 0 0 15px 0 hsla(32, 38%, 84%, 0.75);
     margin: 0 0 0 30px;
     /* display: inline-block; */
+	height: 692px;
 }
 .widget-gallery li{
 	float: left;
@@ -1509,6 +1510,7 @@ h3.widgettitle{
 .menus .menu-content {
     overflow: hidden;
     margin-top: 15px;
+	width: 100%;
 }
 .menus .menu-title{
 	font-size: 15px;
@@ -2003,4 +2005,27 @@ a.btn.btn-primary:hover {
     background-size: cover  !important;
     width: 100%  !important;
     height: 350px  !important;
+}
+
+
+.menu-img1 {
+    background-position: center  !important;
+    background-repeat: no-repeat  !important;
+    background-size: cover  !important;
+    width: 100%  !important;
+    height: 350px  !important;
+}
+
+
+.main-menu-img {
+    background-position: center  !important;
+    background-repeat: no-repeat  !important;
+    background-size: cover !important;
+    width: 70px  !important;
+    height: 50px  !important;
+    margin-right: 20px !important;
+	border-radius: 2px;
+}
+.menu-text {
+    display: flex;
 }
