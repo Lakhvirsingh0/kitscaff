@@ -2029,3 +2029,30 @@ a.btn.btn-primary:hover {
 .menu-text {
     display: flex;
 }
+
+/* banner section css start */
+.upper-banner {
+    background-position: center  !important;
+    background-repeat: no-repeat  !important;
+    background-size: contain  !important;
+    width: 100%  !important;
+    height: 350px  !important;
+}
+
+.inner-banner {
+    background-position: center  !important;
+    background-repeat: no-repeat  !important;
+    background-size: cover  !important;
+    width: 100%  !important;
+    height: 693px  !important;
+}
+/* banner section css end */
+
+.banner-upper {
+    background-position: center  !important;
+    background-repeat: no-repeat  !important;
+    background-size: contain  !important;
+    width: 100%  !important;
+    height: 270px  !important;
+	margin-top: -70px;
+}

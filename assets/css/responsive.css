@@ -805,6 +805,12 @@ Content Tabel
 	.contact-us-img {
 		width: 100%;
 	}
+	.upper-banner {
+		display: none;
+	}
+	.col-sm-6 {
+		width: 100%;
+	}
 	
 	
 }
